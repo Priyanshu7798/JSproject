@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #212121;
+    color: #fff;
+}
+.center{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    height: 50vh;
+    flex-direction: column;
+}
+span{
+    font-size: 40px;
+    margin: 2px;
+}
+
+.clock{
+    font-size: 50px;
+    border: solid white 2px;
+    border-radius: 10px;
+    background-color: orange;
+    padding: 10px;
+    margin: 14px 39vw 16px;
+}
